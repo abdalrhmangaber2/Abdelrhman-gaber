@@ -3,10 +3,12 @@
 
 
 <h1 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FE428E&center=true&vCenter=true&width=1000&lines=I'm+Abdelrhman+Gaber;Software+Engineer;Backend+Developer+.%20NET+%26+Django" alt="Typing SVG" />
-</a>
+  Abdelrhman Gaber
 </h1>
+
+<h3 align="center">
+Backend Developer | .NET & Django
+</h3>
 <p align="center">
 Passionate about building scalable backend systems and solving problems using algorithms and modern technologies.
 </p>
