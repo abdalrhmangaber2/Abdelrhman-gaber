@@ -66,10 +66,9 @@ Passionate about building scalable backend systems and solving problems using al
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/abdullah-mohammed-334475294](https://www.linkedin.com/in/abdelrhman-gaber-46790733a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+<a href="https://www.linkedin.com/in/abdelrhman-gaber-46790733a">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
 
 </p>
 
