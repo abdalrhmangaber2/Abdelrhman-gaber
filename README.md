@@ -62,21 +62,14 @@ Passionate about building scalable backend systems and solving problems using al
 
 <p align="center">
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:abdalrhmangaber2@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abdullah-mohammed-334475294">
+<a href="[https://www.linkedin.com/in/abdullah-mohammed-334475294](https://www.linkedin.com/in/abdelrhman-gaber-46790733a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://t.me/Abdullah0284">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
-</a>
-
-<a href="https://www.youtube.com/@Fikri-18">
-<img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"/>
-</a>
 
 </p>
 
