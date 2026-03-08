@@ -2,9 +2,9 @@
 
 
 
-<h1 align="center"> 
+<h1 align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4500&pause=1000&color=FE428E&center=true&vCenter=true&width=490&lines=I'm+Abdelrhman+Gaber;Software+Engineer;Backend+Developer+%7C+.NET+%26+Django" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4500&pause=1000&color=FE428E&center=true&vCenter=true&width=520&lines=I'm+Abdelrhman+Gaber;Software+Engineer;Backend+Developer+%7C+.NET+%26+Django+Developer" alt="Typing SVG" />
 </a>
 </h1>
 <p align="center">
